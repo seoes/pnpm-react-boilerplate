@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+
+# Build Directories
+/dist
+/build
+
+# Environmental Variables
+.env.local
+.env.*.local
+
+# IDE Configurations
+.idea
+.vscode
+
+# Logs
+*.log
+
+# macOS System Files
+.DS_Store
+
+# Temp Files
+*.tmp
+*.swp
